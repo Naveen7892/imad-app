@@ -31,6 +31,7 @@ var createTemplate = function(data) {
                 
                 ${content}
             </body>
+        </html>
     `;
     
     
