@@ -32,6 +32,9 @@ var createTemplate = function(data) {
                 ${content}
             </body>
     `;
+    
+    
+    return template;
 };
 
 
